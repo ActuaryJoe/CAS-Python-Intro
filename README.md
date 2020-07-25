@@ -1,0 +1,2 @@
+# CAS-Python-Intro
+CAS VIRTUAL WORKSHOP – PYTHON FOR ACTUARIES (Course notes)
